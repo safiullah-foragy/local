@@ -4,6 +4,7 @@ class java {
         
         
         System.out.println("Hello, World! this is my project"); 
+        System.out.println("this is another test"); 
         
 
     }
